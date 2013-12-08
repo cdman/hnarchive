@@ -1,0 +1,5 @@
+cron:
+- description: kick off crawling
+  url: /task/crawl
+  schedule: every 1 mins
+
